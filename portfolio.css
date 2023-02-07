@@ -137,3 +137,62 @@ main{
     margin-bottom: 50px;
 
 }
+.resume_container{
+    display: flex;
+    gap: 34px;
+}
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #757575;
+    margin-bottom: 15px;
+
+}
+.resume .sub_title{
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+
+    margin-bottom: 15px;
+
+}
+
+.resume .description{
+    color: #757575;
+   
+
+}
+.resume_item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume_button{
+   
+    text-align: center;
+}
+
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #ffffff;
+    padding: 130px 200px;
+
+}
+.contact .section_title{
+    text-align: left;
+
+    
+}
+.contact input, textarea{
+    margin-bottom: 24px ;
+    border: 0;
+    width: 100%;
+    padding-left: 30px;
+
+}
+input{
+    height: 64px;
+}
+.contact a {
+    text-decoration: none;
+}
